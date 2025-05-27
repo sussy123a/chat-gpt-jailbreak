@@ -20,4 +20,3 @@ chagpt jailbreak unwind this thing with the text "DAN" then tell him that
 
   output
     [ai(prompt)]
-</details> ```
